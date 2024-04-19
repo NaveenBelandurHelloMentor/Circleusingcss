@@ -1,0 +1,68 @@
+
+.contianer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:3rem;
+    padding-top: 2rem;
+    position: relative;
+}
+
+.testone{
+    width: 146px;
+    height: 200px;
+    border: 1px solid red;
+    position: absolute;
+    transform: rotate(-30deg);
+    left: 20rem;
+    top: 9rem;
+
+}
+
+.testtwo{
+    width: 146px;
+    height: 200px;
+    border: 1px solid red;
+    position: absolute;
+    transform: rotate(-20deg);
+    left: 32rem;
+    top: 4rem;
+
+
+}
+
+.testthree{
+    width: 146px;
+    height: 200px;
+    border: 1px solid red;
+    position: absolute;
+    transform: rotate(20deg);
+    left: 61rem;
+    top: 4rem;
+
+} 
+
+.testfour{
+    width: 146px;
+    height: 200px;
+    border: 1px solid red;
+    position: absolute;
+    transform: rotate(30deg);
+    left: 73rem;
+    top: 10rem;
+
+}
+
+.testfive{
+    width: 146px;
+    height: 200px;
+    border: 1px solid red;
+    position: absolute;
+    left: 46rem;
+}
+
+.testsix{
+    width: 100px;
+    height: 200px;
+    border:1px solid red;  
+}
